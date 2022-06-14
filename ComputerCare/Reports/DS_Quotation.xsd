@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_Quotation" targetNamespace="http://tempuri.org/DS_Quotation.xsd" xmlns:mstns="http://tempuri.org/DS_Quotation.xsd" xmlns="http://tempuri.org/DS_Quotation.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_Quotation" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DS_Quotation" msprop:Generator_DataSetName="DS_Quotation" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_TablePropName="DataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" msprop:Generator_UserColumnName="name" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInTable="nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="addr" msprop:Generator_UserColumnName="addr" msprop:Generator_ColumnPropNameInRow="addr" msprop:Generator_ColumnVarNameInTable="columnaddr" msprop:Generator_ColumnPropNameInTable="addrColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="oname" msprop:Generator_UserColumnName="oname" msprop:Generator_ColumnPropNameInRow="oname" msprop:Generator_ColumnVarNameInTable="columnoname" msprop:Generator_ColumnPropNameInTable="onameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ocontact" msprop:Generator_UserColumnName="ocontact" msprop:Generator_ColumnPropNameInRow="ocontact" msprop:Generator_ColumnVarNameInTable="columnocontact" msprop:Generator_ColumnPropNameInTable="ocontactColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="email" msprop:Generator_UserColumnName="email" msprop:Generator_ColumnPropNameInRow="email" msprop:Generator_ColumnVarNameInTable="columnemail" msprop:Generator_ColumnPropNameInTable="emailColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="cname" msprop:Generator_UserColumnName="cname" msprop:Generator_ColumnPropNameInRow="cname" msprop:Generator_ColumnVarNameInTable="columncname" msprop:Generator_ColumnPropNameInTable="cnameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ccontact" msprop:Generator_UserColumnName="ccontact" msprop:Generator_ColumnPropNameInRow="ccontact" msprop:Generator_ColumnVarNameInTable="columnccontact" msprop:Generator_ColumnPropNameInTable="ccontactColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="date" msprop:Generator_UserColumnName="date" msprop:Generator_ColumnPropNameInRow="date" msprop:Generator_ColumnVarNameInTable="columndate" msprop:Generator_ColumnPropNameInTable="dateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="qno" msprop:Generator_UserColumnName="qno" msprop:Generator_ColumnPropNameInRow="qno" msprop:Generator_ColumnVarNameInTable="columnqno" msprop:Generator_ColumnPropNameInTable="qnoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sproduct" msprop:Generator_UserColumnName="sproduct" msprop:Generator_ColumnPropNameInRow="sproduct" msprop:Generator_ColumnVarNameInTable="columnsproduct" msprop:Generator_ColumnPropNameInTable="sproductColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="gst" msprop:Generator_UserColumnName="gst" msprop:Generator_ColumnPropNameInRow="gst" msprop:Generator_ColumnVarNameInTable="columngst" msprop:Generator_ColumnPropNameInTable="gstColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="qty" msprop:Generator_UserColumnName="qty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_ColumnPropNameInTable="qtyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="rate" msprop:Generator_UserColumnName="rate" msprop:Generator_ColumnPropNameInRow="rate" msprop:Generator_ColumnVarNameInTable="columnrate" msprop:Generator_ColumnPropNameInTable="rateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_UserColumnName="total" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_ColumnPropNameInTable="totalColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sgst" msprop:Generator_UserColumnName="sgst" msprop:Generator_ColumnPropNameInRow="sgst" msprop:Generator_ColumnVarNameInTable="columnsgst" msprop:Generator_ColumnPropNameInTable="sgstColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sgstamt" msprop:Generator_UserColumnName="sgstamt" msprop:Generator_ColumnPropNameInRow="sgstamt" msprop:Generator_ColumnVarNameInTable="columnsgstamt" msprop:Generator_ColumnPropNameInTable="sgstamtColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="cgst" msprop:Generator_UserColumnName="cgst" msprop:Generator_ColumnPropNameInRow="cgst" msprop:Generator_ColumnVarNameInTable="columncgst" msprop:Generator_ColumnPropNameInTable="cgstColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="cgstamt" msprop:Generator_UserColumnName="cgstamt" msprop:Generator_ColumnPropNameInRow="cgstamt" msprop:Generator_ColumnVarNameInTable="columncgstamt" msprop:Generator_ColumnPropNameInTable="cgstamtColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="totalamount" msprop:Generator_UserColumnName="totalamount" msprop:Generator_ColumnPropNameInRow="totalamount" msprop:Generator_ColumnVarNameInTable="columntotalamount" msprop:Generator_ColumnPropNameInTable="totalamountColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="totalqty" msprop:Generator_UserColumnName="totalqty" msprop:Generator_ColumnPropNameInRow="totalqty" msprop:Generator_ColumnVarNameInTable="columntotalqty" msprop:Generator_ColumnPropNameInTable="totalqtyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="totalamt" msprop:Generator_UserColumnName="totalamt" msprop:Generator_ColumnPropNameInRow="totalamt" msprop:Generator_ColumnVarNameInTable="columntotalamt" msprop:Generator_ColumnPropNameInTable="totalamtColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="description" msprop:Generator_UserColumnName="description" msprop:Generator_ColumnPropNameInRow="description" msprop:Generator_ColumnVarNameInTable="columndescription" msprop:Generator_ColumnPropNameInTable="descriptionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="website" msprop:Generator_UserColumnName="website" msprop:Generator_ColumnVarNameInTable="columnwebsite" msprop:Generator_ColumnPropNameInRow="website" msprop:Generator_ColumnPropNameInTable="websiteColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

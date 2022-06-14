@@ -1,0 +1,137 @@
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\bin\Debug\ComputerCare.exe.config
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\bin\Debug\ComputerCare.exe
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\bin\Debug\ComputerCare.pdb
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ResolveAssemblyReference.cache
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.ComputerCare.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Properties.Resources.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.csproj.GenerateResource.Cache
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.exe
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.pdb
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Login.FrmLogin.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmCompany.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmCustomer.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmDealer.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmRepairProduct.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmSellProduct.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmProblem.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmInword.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptInw.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmQuotation.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptQuotn.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmPurchase.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmSell.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptPurchase.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmExpense.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmReceipt.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptReceipt.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmBackupRestore.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmChangePassword.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmUpdateCompany.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmRepair.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptRepair.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptCredit.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptCustomerSell.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptDealerPurchase.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptExpense.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptInward.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptQuotation.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptReceiptReport.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptRepairReport.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptTrialBalance.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptSell.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptStock.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmCreditSMS.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmGroupSMS.resources
+E:\C# SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptTransaction.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\bin\Debug\ComputerCare.exe.config
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.exe
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.pdb
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\bin\Debug\ComputerCare.exe
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\bin\Debug\ComputerCare.pdb
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ResolveAssemblyReference.cache
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.ComputerCare.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Login.FrmLogin.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmCompany.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmCustomer.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmDealer.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmProblem.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmRepairProduct.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmSellProduct.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmCreditSMS.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmExpense.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmGroupSMS.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmInword.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmPurchase.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmQuotation.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmReceipt.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmRepair.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmSell.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Properties.Resources.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptCredit.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptCustomerSell.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptDealerPurchase.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptExpense.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptInw.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptInward.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptPurchase.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptQuotation.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptQuotn.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptReceipt.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptReceiptReport.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptRepair.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptRepairReport.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptSell.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptStock.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptTransaction.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptTrialBalance.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmBackupRestore.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmChangePassword.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmUpdateCompany.resources
+E:\C SHARP SCOREGRAPH\ComputerCare\ComputerCare\obj\Debug\ComputerCare.csproj.GenerateResource.Cache
+F:\Company Softwares\ComputerCare\ComputerCare\bin\Debug\ComputerCare.exe.config
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.exe
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.pdb
+F:\Company Softwares\ComputerCare\ComputerCare\bin\Debug\ComputerCare.exe
+F:\Company Softwares\ComputerCare\ComputerCare\bin\Debug\ComputerCare.pdb
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ResolveAssemblyReference.cache
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.ComputerCare.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Login.FrmLogin.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmCompany.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmCustomer.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmDealer.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmProblem.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmRepairProduct.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Masters.FrmSellProduct.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmCreditSMS.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmExpense.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmGroupSMS.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmInword.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmPurchase.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmQuotation.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmReceipt.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmRepair.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Operations.FrmSell.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Properties.Resources.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptCredit.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptCustomerSell.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptDealerPurchase.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptExpense.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptInw.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptInward.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptPurchase.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptQuotation.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptQuotn.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptReceipt.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptReceiptReport.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptRepair.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptRepairReport.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptSell.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptStock.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptTransaction.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmRptTrialBalance.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmBackupRestore.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmChangePassword.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Utilities.FrmUpdateCompany.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.csproj.GenerateResource.Cache
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.SimpleForm.resources
+F:\Company Softwares\ComputerCare\ComputerCare\obj\Debug\ComputerCare.Reports.FrmProductDisplay.resources
